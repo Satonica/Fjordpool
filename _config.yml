@@ -24,13 +24,13 @@ heroimage: https://photos.google.com/search/2018/photo/AF1QipNLXPZb6MIs54VS0XMG-
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: fjordpool@gmail.com
-#facebook_username: thedevslot
-#twitter_username: thedevslot
+facebook_username: thedevslot
+twitter_username: thedevslot
 #instagram_username: thedevslot
 #linkedin_username: thedevslot
 #github_username:  thedevslot
 #youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-#reddit_username: /
+reddit_username: /
 #behance_username: /
 #dribbble_username: /
 #spotify_username: /
@@ -61,7 +61,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+#permalink: "blog/:title"
 
 # Compress
 compress_html:
